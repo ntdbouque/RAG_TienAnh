@@ -67,7 +67,7 @@ def generate_text(document_path, model_name, temperature, top_k, top_p):
                     content=prompt
                 ),
             ]
-    llm = OpenAI(model='gpt-3.5-turbo', api_key='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')
+    llm = OpenAI(model='gpt-3.5-turbo', api_key='API-KEY')
     response = llm.chat(messages)
     contextualized_content = response.message.content
     return contextualized_content
