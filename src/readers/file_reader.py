@@ -159,7 +159,7 @@ def parse_multiple_files(files_or_folder: list[str] | str) -> list[Document]:
 
     documents = SimpleDirectoryReader(
         input_files=valid_files,
-        file_extractor=file_extractor,
+        #file_extractor=file_extractor,
     ).load_data(show_progress=True)
 
     return documents

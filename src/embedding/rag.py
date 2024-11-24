@@ -24,6 +24,7 @@ from llama_index.vector_stores.qdrant import QdrantVectorStore
 from llama_index.postprocessor.cohere_rerank import CohereRerank
 from llama_index.core.base.base_query_engine import BaseQueryEngine
 from llama_index.core.node_parser import SemanticSplitterNodeParser
+from llama_index.core.node_parser import SentenceSplitter
 from llama_index.core.llms.function_calling import FunctionCallingLLM
 from llama_index.core import (
     Settings,
@@ -106,9 +107,7 @@ class RAG:
         Settings.llm = self.llm
         Settings.chunk_size = setting.chunk_size
 
-        self.splitter = SemanticSplitterNodeParser(
-            buffer_size=1, breakpoint_percentile_threshold=95, embed_model=embed_model
-        )
+        self.splitter = SentenceSplitter(chunk_size=512, chunk_overlap=64)
 
         self.es = ElasticSearch(
             url=setting.elastic_search_url, index_name=setting.elastic_search_index_name

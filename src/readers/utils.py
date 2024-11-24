@@ -67,7 +67,9 @@ def get_files_from_folder_or_file_paths(files_or_folders: list[str]) -> list[str
 def get_extractor():
     return {
         ".pdf": LlamaParse(
-            result_type="markdown", api_key=os.getenv("LLAMA_PARSE_API_KEY")
+            result_type="markdown", api_key=os.getenv("LLAMA_PARSE_API_KEY"),
+            #gpt4o_mode = True, gpt4o_api_key=os.getenv("OPENAI_API_KEY"),
+            num_workers=9
         ),
         ".docx": DocxReader(),
         ".html": UnstructuredReader(),
