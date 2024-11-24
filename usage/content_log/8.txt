@@ -1,0 +1,100 @@
+International Journal of Intelligent Systems and Applications in Engineering  IJISAE, 2024, 12( 14s), 309–319 |  317 1, pp. b2700 –b2700, Dec. 2009, doi: 
+10.1136/bmj.b2700.  
+[8] Daleesha M Viswanathan and Sumam Mary Idicula, 
+“Recent Developments in Indian Sign Language 
+Recognition: An Analysis,” International Journal of 
+Computer Science and Information Technologies, vol. 
+6, no. 1, pp. 289 –293, 2015.  
+[9] M. R. K, H. Kaur, S. K. Bedi, and M. A. Lekhana, 
+“Image -based Indian Sign Language Recognition: A 
+Practical Review using Deep Neural Networks.” 
+arXiv, Apr. 28, 2023. Accessed: Sep. 18, 2023. 
+[Online]. Available: http://arxiv.org/abs/2304.14710  
+[10] Anuja V. Nair and Bindu V., “A Review on Indian 
+Sign Language Recognition,” ijca, vol. 73, no. 22, pp. 
+33–38, 2013.  
+[11] V. K. Verma, S. Srivastava, and N. Kumar, “A 
+comprehensive review on automation of Indian sign 
+language,” International Conference on Advances in 
+Computer Engineering and Applications, ICACEA 
+2015, 2015, pp. 138 –142. doi: 
+10.1109/ICACEA.2015.7164682.  
+[12] A. Tyagi and S. Bansal, “Feature extraction technique 
+for vision -based Indian sign language recognition 
+system: A review,” Advances in Intelligent Systems 
+and Computing, 2021, pp. 39 –53. doi: 10.1007/978 -
+981-15-6876 -3_4. 
+[13] B. Samal and M. Panda, “Integrative review on vision -
+based dynamic Indian sign language recognition 
+systems,” 1st Odisha International Conference on 
+Electrical Power Engineering, Communication and 
+Computing Technology, ODICON 2021, 2021. doi: 
+10.1109/ODICO N50556.2021.9429002.  
+[14] S. Das, S. K. Biswas, M. Chakraborty, and B. 
+Purkayastha, “Intelligent Indian Sign Language 
+Recognition Systems: A Critical Review,”Lecture 
+Notes in Networks and Systems, 2022, pp. 703 –713. 
+doi: 10.1007/978 -981-16-5987 -4_71.  
+[15] A. Singh, S. K. Singh, and A. Mittal, “A Review on 
+Dataset Acquisition Techniques in Gesture 
+Recognition from Indian Sign Language,” in Lecture 
+Notes on Data Engineering and Communications 
+Technologies, vol. 106, 2022, pp. 305 –313. doi: 
+10.1007/978 -981-16-8403 -6_27.  
+[16] Rakesh Savant and Dr. Jitendra Nasriwala, “INDIAN 
+SIGN LANGUAGE RECOGNITION SYSTEM: 
+APPROACHES AND CHALLENGES,” International 
+Journal of Advance and Innovative Research, vol. 6, 
+no. 3(IV), pp. 76 –84, 2019.  
+[17] A. Nandy, J. S. Prasad, S. Mondal, P. Chakraborty, and 
+G. C. Nandi, “Recognition of Isolated Indian Sign Language Gesture in Real Time,” in Information 
+Processing and Management, vol. 70, V. V. Das, R. 
+Vijayakumar, N. C. Debnath, J. Stephen, N. 
+Meghanathan, S. Sankaranarayanan, P. M. 
+Thankachan, F. L. Gaol, and N. Thankachan, Eds., in 
+Communications in Comput er and Information 
+Science, vol. 70. , Berlin, Heidelberg: Springer Berlin 
+Heidelberg, 2010, pp. 102 –107. doi: 10.1007/978 -3-
+642-12214 -9_18.  
+[18] A. Sridhar, R. G. Ganesan, P. Kumar, and M. Khapra, 
+“INCLUDE: A Large Scale Dataset for Indian Sign 
+Language Recognition,” in Proceedings of the 28th 
+ACM International Conference on Multimedia, Seattle 
+WA USA: ACM, Oct. 2020, pp. 1366 –1375. doi: 
+10.1145/33 94171.3413528.  
+[19] E. R, “ISL -CSLTR: Indian Sign Language Dataset for 
+Continuous Sign Language Translation and 
+Recognition.” Mendeley, Jan. 22, 2021. doi: 
+10.17632/KCMPDXKY7P.  
+[20] E. R, “ISLAN.” Mendeley, Jan. 08, 2021. doi: 
+10.17632/RC349J45M5.1.  
+[21] Adithya Venugopalan, “A Video Dataset of the Hand 
+Gestures of Indian Sign Language Words used in 
+Emergency Situations.” Mendeley, Aug. 27, 2021. doi: 
+10.17632/2VFDM42337.1.  
+[22] K. Mistree, D. Thakor, and B. Bhatt, “Towards Indian 
+Sign Language Sentence Recognition using 
+INSIGNVID: Indian Sign Language Video Dataset,” 
+Int. J. Adv. Comput. Sci. Appl., vol. 12, no. 8, 2021, 
+doi: 10.14569/IJACSA.2021.0120881.  
+[23] D. Kothadiya, C. Bhatt, K. Sapariya, K. Patel, A. -B. 
+Gil-González, and J. M. Corchado, “Deepsign: Sign 
+Language Detection and Recognition Using Deep 
+Learning,” Electronics, vol. 11, no. 11, p. 1780, Jun. 
+2022, doi: 10.3390/electronics11111780.  
+[24] “Results The Lens - Free & Open Patent and Scholarly 
+Search,” The Lens - Free & Open Patent and Scholarly 
+Search. Accessed: Sep. 18, 2023. [Online]. Available: 
+https://www.lens.org/lens  
+[25] J. Rekha, J. Bhattacharya, and S. Majumder, “Shape, 
+texture and local movement hand gesture features for 
+Indian Sign Language recognition,” in 3rd 
+International Conference on Trendz in Information 
+Sciences & Computing (TISC2011), Chennai, India: 
+IEEE, Dec.  2011, pp. 30 –35. doi: 
+10.1109/TISC.2011.6169079.  
+[26] S. C. Agrawal, A. S. Jalal, and C. Bhatnagar, 
+“Recognition of Indian Sign Language using feature 
+fusion,” in 2012 4th International Conference on 
+Intelligent Human Computer Interaction (IHCI), 
+Kharagpur, India: IEEE, Dec. 2012, pp. 1 –5. doi: 

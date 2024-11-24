@@ -1,0 +1,94 @@
+International Journal of Intelligent Systems and Applications in Engineering  IJISAE, 2024, 12( 14s), 309–319 |  311 3. Results and Discussion  
+In this section, we will try to answer all the research 
+questions on the basis of literature.  
+3.1 RQ1 - What is the focus of study in previous 
+literature review in the field of ISLTS?  
+To analyze previous literature surveys in this field and their 
+focus areas on which review has been performed a list of 
+review articles has been crafted in the field of ISLRS/ISLTS 
+process. Table  2. shows various research articles published 
+along with their year and focus of review from the period of 
+2010 to 2023.It has been observed that no literature review 
+article has been published in the field of ISLTS/ISLRS using 
+PRISMA guidelines as per the au thor’s knowledge. It has 
+been observed that most of the literature review articles [8] –
+[12] included less than 10 research articles for their analysis 
+due to lack of standard research w ork in the domain of ISL. 
+[13] contemplated 29 research articles related to dynamic 
+recognition and compared different methodologies. 
+However, [9], [13] reviewed various methodologies and 
+[12], [14] discussed various feature extraction techniques in 
+ISLTS/ ISLRS. [15] examined different articles related to 
+dataset acquisition techniques and concluded that area of 
+non-manual features is yet to be explored in case of ISL. 
+[16] studied few ISLR articles along with other sign 
+languages to conclude there are limi ted work in 
+alphanumeric recognition, dynamic sign recognition. It has 
+been analyzed that 90% of review papers in ISL 
+translation/recognition process considered less than 20 -25. 
+Table 2. Prior literature reviews in ISL  
+Ref  Type  Year  Criteria for Review  
+[8] J 2015  Gesture set and technique  
+[9] J 2023  Methodology  
+[10] J 2013  Input, segmentation, Feature 
+vector, classification, 
+recognition rate, platform  
+[11] C 2015  Challenges  
+[12] C 2021  Feature extraction  
+[13] C 2021  Dynamic ISLRS with focus on 
+methodology  
+[14] C 2022  Feature Extraction  
+[15] C 2022  Dataset acquisition techniques  
+[16] C 2019  Input, dataset, segmentation, 
+method, number of gestures, 
+output, limitation, recognition 
+percentage  
+ 3.2 RQ2 - What are various types of datasets available 
+for researchers in the field of ISLTS?  
+A standard well annotated dataset is very important for any 
+sign language processing system.  In case of ISLTS, lack of 
+standard, open access datasets are few of the major 
+challenges in translation/recognition process. Table  3. 
+describes list of open access datasets available in the domain 
+of ISLTS along with their characteristics. We have also 
+included some dataset with limited access.  
+Table 3. List of open access datasets available in ISL  
+Ref Year  Dataset                 Type  
+Alphanum
+eric Word  Sentence  
+[17] 2010  ISL  22  
+[18] 2020  Include  - 15W   
+[19] 2021  ISL-CSLTR  - 1036  100 
+[20] 2021  ISLAN  24 A  - - 
+[21] 2021  Emergency  - 8W - 
+[22] 2021  INSIGNVID  - 55W  15S 
+[23] 2022  IISL2020  - 11W  - 
+ 
+In 2010 , [17], created RGB video dataset of 23 different ISL 
+word gestures at 30 frames per second (fps) under various 
+background and lightning conditions. The access of this 
+dataset has been restricted and only given to educational 
+institutions based on agreement through their website by the 
+creators. In 2020, [18] presented Indian lexicon sign 
+language dataset (INCLUDE) with the help of 7 
+experienced signers. This word level dataset consists of 263 
+classes of 15 categories, 4287 videos with 1920x1080 
+resolution an d 25 fps. A subset of the above dataset having 
+50 signs across 15 categories was also proposed with same 
+specifications called INCLUDE 50. Both the datasets 
+include 15 words in total. In 2021, several other researchers 
+came up with their own ISL datasets a vailable freely like 
+[19] Elakkiya et al developed first sentence level Indian sign 
+language dataset for continuous Sign language translation 
+and recognition i.e., ISL -CSLTR. The dataset contained 700 
+videos of 100 sentences made up with the help of 7 sign ers. 
+Secondly, another ISL dataset for Alphanumeric (ISLAN) 
+signs was developed by [20] comprising of 350 unique sign 
+images and 12 unique videos compassing 24 alphabets of 
+English language (except J, Z) and numbers totaling to 700 
+images and 24 videos by 6 signers.  Another sign language 
+dataset for emergency domain has been developed by [21]. 
+It included 824 videos of 8 words by 12 males and 14 
+females. Indian Sign Language Video (INSIGNVID) 
+dataset was developed by [22] for efficient recognition of 55 
+words of ISL. The dataset was created by 4 right -handed 

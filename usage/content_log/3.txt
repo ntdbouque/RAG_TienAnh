@@ -1,0 +1,69 @@
+International Journal of Intelligent Systems and Applications in Engineering  IJISAE, 2024, 12( 14s), 309–319 |  312 persons and consists of videos with 30fps, 1920*1088 
+resolution and common background conditions. In 2022, 
+Kothadiya et al [23] proposed a permission based Isolated 
+ISL dataset (IISL2020) made up of 11 words from 16 
+persons and 1100 videos and average 28fp s. 
+3.3 RQ3 - What are the number of research paper 
+published per year on ISLT/RS?  
+Error! Reference source not found. . elucidates an 
+overview of ISLTS studies that are published annually from 
+Lensorg and Scopus source  in (a) and (b) parts . It has been 
+observed  from the figure  that highest articles are published 
+in the year 2023 till date i.e., maximum of 26 journal articles 
+has already been published in the year 2023. The topic of 
+ISLTS/ISLRS has garnered a lot of research attention in the 
+last few years however, the work done  in recent two years 
+outshines the previous works quantitatively and 
+qualitatively.  
+Three different categories of articles i.e., book chapter, 
+conference articles and journal articles are contemplated for 
+this research article  as represented with figure 3(a) and 3(b) . 
+It has been observed that majority of articles published in 
+the field of ISL recognition/translation domain are from 
+journals i.e., 124 out of total 239 are research articles 
+published in journals followed by numbers of articles in 
+conference.  This data  has been taken from Lensorg website 
+[24] with the constraint to include only selected articles 
+related to the domain of ISLTS/ISLRS from the period 2010 
+to 2023.  
+ 
+(a) 
+ 
+    (b) 
+Fig. 2 . Example of a Publications per year (a)LensOrg (b) 
+Scopus  
+RQ4 - What are existing techniques for translating ISL 
+gestures and their performance?  
+Machine learning has garnered a lot of attention in the field 
+of sign language processing over the last few years. Majumdar et al [25] in 2011 proposed Indian sign language 
+recognition system with YCbCr segmentation, wavelet 
+packet decomposition, principal curvature -based region as 
+feature extraction, dynamic time warping (DTW) to classify 
+alphabets with an accuracy of  91.3%. [26] concluded that 
+Multi SVM classifier can classify static ISL  gestures with 
+recognition rate of 92.6 on a self -made dataset.[27]  
+proposed a ISL recognition system to classify 24 alphabet 
+level gestures with 97 recognition accuracy using novel 
+Eigen value weighted Euclidean distance. [28] proposed a 
+framework for recognition of two -handed gestures of ISL 
+by employing HOG feature extr action method and four 
+popular pretrained models ALEXNET, VGG -16, VGG -19 
+and GoogleNet. The model attained highest accuracy of 
+99.11% with ALEXNET and VGG -19 pretrained transfer 
+learning models to classify alphabets of ISL. [29] proposed 
+model for recogniz ing alphabets of ISL using extreme 
+learning with an average accuracy of 80.76% on self -made 
+dataset. [30] developed a ISLRS for alphabets using CNN 
+with  
+ 
+(a) 
+ 
+(b) 
+Fig. 3.  Publication types (a) LensOrg (b) Scopus  
+3.4 RQ4 - What are existing techniques for 
+translating ISL gestures and their performance?  
+Machine learning has garnered a lot of attention in the field 
+of sign language processing over the last few years. 
+Majumdar et al [25] in 2011 proposed Indian sign language 
+recognition system with YCbCr segmentation, wavelet 
+packet decomposition, principal curvature -based region as 

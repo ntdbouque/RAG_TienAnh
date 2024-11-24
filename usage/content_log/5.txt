@@ -1,0 +1,57 @@
+International Journal of Intelligent Systems and Applications in Engineering  IJISAE, 2024, 12( 14s), 309–319 |  314 activation function, batch normalization, dropout layer and 
+softmax as final classifier layer. [53] developed ISLRS 
+using HSV segmentation, PCA with OH 18 and 36 bins 
+feature extraction mechanism to classify 10 ISL sentences 
+having 2,3 or 4 gestures using six different distance metrics. 
+Euclidean distance topped the performance chart with 93% 
+recognitio n rate (RR) on 36 bins of orientation histogram. 
+[54] proposed a lightweight framework for translating 
+sentence level ISL gestures into text and audio, LiST, and 
+used pretrained model InceptionV3, two layered LSTM 
+architecture on open access dataset with a translation 
+accuracy of 91.2%. [55] proposed a framework for 
+translation of 10 signs of ISL using HMM and DWT to achieve lowest accuracy of 80 and highest accuracy of 
+100%. [56] proposed a Leap motion sensor based ISLTS for 
+35 words and 942 sentences using four gated cell LSTM 
+with 2 dimensional CNN to attain average accuracy of 
+89.5% and 72.3% respectively. [57] proposed gesture 
+recognition mechanism for 42 signs of ISL using KNN and 
+SVM machine learning classification techniques. HSV, 
+Otsu thresholding for segmentation and novel MFCC 
+feature extraction method has been used along with wavelet 
+descriptor to transl ate 42 static and dynamic gestures of ISL. 
+The authors concluded that SVM with MFCC feature 
+extraction mechanism  
+Table 4. Work done in the domain of ISLTS  
+Ref Year  Type  Specifications  Features  Results  
+[25] 2011  
+ALPHABET  26Alphabet  Support Vector Machine (SVM), K -Nearest 
+Neighbour (KNN) and Dynamic Time 
+Warping (DTW)  91.3 accuracy  
+[26] 2012  26Alphabet  Multi SVM classifier  92.6 Recognition 
+Accuracy  
+[27] 2013  Alphabet (24)  Eigen value weighted Euclidean distance  97 Recognition Rate  
+[28] 2022  Alphabet  Histogram Oriented Gradient (HOG), AlexNet  99.11Accuracy  
+[29] 2020  - Extreme learning  80.76Accuracy  
+[30] 2022  26 Alphabet  Convolution Neural Network (CNN) with 
+diffGrad optimiser  99.64  
+[31] 2019  26 Alphabet  Neurofuzzy algorithm with correlation 
+coefficient feature extractor  92.3 
+[32] 2022  26 Alphabet  VGG16  95 
+ 
+[33] 2014  
+NUMBER  10 Numbers  Neural network with KNN  
+ 97.1 
+[34] 2020  10 Numbers  Kinect and Bag of visual words with ORB, 
+KNN  
+ 93.26  
+[35] 2012  
+ALPHANUMERIC  36Alphanumeric  Principal Component Analysis (PCA)  94 Recognition 
+Accuracy  
+[36] 2013  36Alphanumeric  4-layer Artificial Neural Network (ANN)  91.11 Recognition Rate  
+[37] 2012  26Alphabet,  
+6Numbers  B-spline approximation  - 
+[38] 2016  36Alphanumeric  Novel fusion descriptor,  99.61  
+[39] 2022  Alphanumeric  Bag of Visual Words (BOVW), Speeded Up 
+Robust Features (SURF), SVM, CNN  
+ 99.64Accuracy  

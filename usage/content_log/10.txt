@@ -1,0 +1,89 @@
+International Journal of Intelligent Systems and Applications in Engineering  IJISAE, 2024, 12( 14s), 309–319 |  319 Recognition for Indian Sign Language Modeling,” in 
+Procedia Computer Science, 2021, pp. 76 –83. doi: 
+10.1016/j.procs.2021.05.071.  
+[46] B. Subramanian, B. Olimov, S. M. Naik, S. Kim, K. -
+H. Park, and J. Kim, “An integrated mediapipe -
+optimized GRU model for Indian sign language 
+recognition,” Sci. Rep., vol. 12, no. 1, p. 11964, Jul. 
+2022, doi: 10.1038/s41598 -022-15998 -7. 
+[47] P. C. Badhe and V. Kulkarni, “Indian sign language 
+translator using gesture recognition algorithm,” in 
+IEEE International Conference on Computer Graphics, 
+Vision and Information Security (CGVIS), 
+Bhubaneswar, India: IEEE, 2016, pp. 195 –200. doi: 
+10.1109/CG VIS.2015.7449921.  
+[48] J. L. Raheja, A. Mishra, and A. Chaudhary, “Indian 
+sign language recognition using SVM,” Pattern 
+Recognit. Image Anal., vol. 26, no. 2, pp. 434 –441, 
+Apr. 2016, doi: 10.1134/S1054661816020164.  
+[49] P. K. Athira, C. J. Sruthi, and A. Lijiya, “A Signer 
+Independent Sign Language Recognition with Co -
+articulation Elimination from Live Videos: An Indian 
+Scenario,” J. King Saud Univ. - Comput. Inf. Sci., vol. 
+34, no. 3, pp. 771 –781, Mar. 2022, doi: 
+10.1016/ j.jksuci.2019.05.002.  
+[50] A. M. Deshpande, G. Inamdar, R. Kankaria, and S. 
+Katage, “A Deep Learning Framework for Real -Time 
+Indian Sign Language Gesture Recognition and 
+Translation to Text and Audio,” in Proceedings of the 
+6th International Conference on Advance Computing 
+and Intel ligent Engineering, vol. 428, B. Pati, C. R. 
+Panigrahi, P. Mohapatra, and K. -C. Li, Eds., in Lecture 
+Notes in Networks and Systems, vol. 428. , Singapore: 
+Springer Nature Singapore, 2023, pp. 287 –300. doi: 
+10.1007/978 -981-19-2225 -1_26.  
+[51] S. Paul, M. Jajoo, A. Raj, A. F. Mollah, M. Nasipuri, 
+and S. Basu, “Dynamic Hand Gesture Recognition of 
+the Days of a Week in Indian Sign Language Using 
+Low-Cost Depth Device,” in Intelligent Data 
+Engineering and Analytics, vol. 266, S. C. Satapathy, 
+P. Pe er, J. Tang, V. Bhateja, and A. Ghosh, Eds., in 
+Smart Innovation, Systems and Technologies, vol. 
+266. , Singapore: Springer Nature Singapore, 2022, pp. 
+141–149. doi: 10.1007/978 -981-16-6624 -7_15.  
+[52] M. Daniel Nareshkumar and B. Jaison, “A Light -
+Weight Deep Learning -Based Architecture for Sign 
+Language Classification,” Intell. Autom. Soft 
+Comput., vol. 35, no. 3, pp. 3501 –3515, 2023, doi: 
+10.32604/iasc.2023.027848.  
+[53] K. Tripathi and N. B. G. C. Nandi, “Continuous Indian 
+Sign Language Gesture Recognition and Sentence 
+Formation,” Procedia Comput. Sci., vol. 54, pp. 523 –531, 2015, doi: 10.1016/j.procs.2015.06.060.  
+[54] A. K, P. P, and R. C. Poonia, “LiST: A Lightweight 
+Framework for Continuous Indian Sign Language 
+Translation,” Information, vol. 14, no. 2, p. 79, Jan. 
+2023, doi: 10.3390/info14020079.  
+[55] K. Tripathi, N. Baranwal, and G. C. Nandi, 
+“Continuous dynamic Indian Sign Language gesture 
+recognition with invariant backgrounds,” in 2015 
+International Conference on Advances in Computing, 
+Communications and Informatics (ICACCI), Kochi, 
+India: IEEE, Aug . 2015, pp. 2211 –2216. doi: 
+10.1109/ICACCI.2015.7275945.  
+[56] A. Mittal, P. Kumar, P. P. Roy, R. Balasubramanian, 
+and B. B. Chaudhuri, “A Modified LSTM Model for 
+Continuous Sign Language Recognition Using Leap 
+Motion,” IEEE Sens. J., vol. 19, no. 16, pp. 7056 –
+7063, Aug. 2019, doi: 10.1109/JSEN.2019.2909837.  
+[57] N. Baranwal and G. C. Nandi, “An efficient gesture 
+based humanoid learning using wavelet descriptor and 
+MFCC techniques,” Int. J. Mach. Learn. Cybern., vol. 
+8, no. 4, pp. 1369 –1388, 2017, doi: 10.1007/s13042 -
+016-0512 -4. 
+[58] H. Muthu Mariappan and V. Gomathi, “Real -time 
+recognition of Indian sign language,” ICCIDS 2019 - 
+2nd International Conference on Computational 
+Intelligence in Data Science, Proceedings, 2019. doi: 
+10.1109/ICCIDS.2019.8862125.  
+[59] K. Shenoy, T. Dastane, V. Rao, and D. Vyavaharkar, 
+“Real -time Indian Sign Language (ISL) Recognition,” 
+9th International Conference on Computing, 
+Communication and Networking Technologies, 
+ICCCNT 2018, 2018. doi: 
+10.1109/ICCCNT.2018.8493808.  
+[60] P. V. V. Kishore and P. Rajesh Kumar, “A Video 
+Based Indian Sign Language Recognition System 
+(INSLR) Using Wavelet Transform and Fuzzy Logic,” 
+Int. J. Eng. Technol., vol. 4, no. 5, pp. 537 –542, 2012, 
+doi: 10.7763/IJET.2012.V4.427.  
+ 

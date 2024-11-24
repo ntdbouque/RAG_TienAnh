@@ -1,0 +1,106 @@
+International Journal of Intelligent Systems and Applications in Engineering  IJISAE, 2024, 12( 14s), 309–319 |  313 feature extraction, dynamic time warping (DTW) to classify 
+alphabets with an accuracy of 91.3%. [26] concluded that 
+Multi SVM classifier can classify static ISL gestures with 
+recognition rate of 92.6 on a self -made dataset. [27] 
+proposed a ISL recognition system to classify 24 alphabet 
+level gestures with 97 recognition accuracy using novel 
+Eigen value weighted Euclidean distance. [28] proposed a 
+framework for recognition of two -handed gestures of ISL 
+by employing HOG feature extraction method and four 
+popular pretrained models ALEXNET, VGG -16, VGG -19 
+and GoogleNet. The model attained highest accuracy of 
+99.11% with ALEXNET and VGG -19 p retrained transfer 
+learning models to classify alphabets of ISL. [29] proposed 
+model for recognizing  alphabets of ISL using extreme 
+learning with an average accuracy of 80.76% on self -made 
+dataset. [30] developed a ISLRS for alphabets using CNN 
+with diffGrad optimizer  and stochastic pooling to achieve 
+validation accuracy of 99.64%. [31] proposed a framework 
+for recognition of alphabets of ISL using correlation 
+coefficient feature extraction and neurofuzzy algorithm as 
+classifier to achieve an average accuracy of 92.3%. [32] 
+proposed transfer learning based recognition of ISL 
+alphabets with an accuracy of 95%. The VGG16 pretrained 
+model consists of 13 convolution layers, average, max 
+pooling, dropout layer for controlling overfitting, Adam 
+optimizer  and softmax as classifier layer.  
+In numeric ISLTS, [33] in 2014, proposed ISL numeric digit 
+(0-9) recognition system on a self -made ISL dataset using 
+KNN classifier and an accuracy of 97.1%. However, [34] 
+proposed Kinect sensor based ISLRS using scale, rotation, 
+and background lightning invariant ORB feature extraction 
+method and KNN machine learning algorithm to classify (0 -
+9) digits of ISL on a self -made dataset with an accuracy of 
+93.26% outperforming s tandard feature extraction 
+techniques like SIFT and SURF.  
+In the domain of alphanumeric level recognition, [35] 
+proposed ISLRS framework using fingertip algorithm and 
+PCA to obtain 94%  accuracy. In 2013, [36] used Fourier 
+descriptors, distance transform and artificial neural network 
+with four layers to classify 36 alphanumeric gestures of ISL 
+with an average accuracy of 91.11 %. [37] Geetha et al 
+suggested alphanumeric ISL sign recognition system with 
+B-spline approximation and SVM classification 
+algorithm. [38] proposed novel fusion descriptor for 
+classification of ISL numeric signs with Nearest Mean 
+classifier and an accuracy of 100%. The novel fusion 
+descriptor comprises of two contour (Boundary, Fourier 
+descriptor) and one region based(7Hu) descriptors. [39] 
+classified gestures of ISL using SVM machine learning 
+algorithm. [40],[41],[42] used Kinect sensor to classify 
+gestures at alphanumeric and word level along with popular 
+classification algorithms such as PCA, SVM to attain 
+remarkable accuracies. [43] suggested translation of word 
+level ISL gestures by extensive training of humanoid robot HOAP -2 along with direction histogram feature extraction, 
+Euclidean distance metric has been used to attain an average 
+accuracy of 90%. [23] Kothadiya et al. in 2022 classified 11 
+words of ISL using sequential combination of LSTM and 
+GRU with accuracy of 97% on their dataset IISL2020. [44] 
+developed a model for classifying 24 dynamic word 
+gestures of ISL using novel dynamic time warping 
+recognition technique along with accuracy of around 90%. 
+20 different gestures were classified by [45] using 3D CNN 
+and attaining 88% validation accuracy in 100 epochs. The 
+model  
+comprises of 3 convolution layers, max pooling, dropout 
+and softmax activation function. [46] Subramaniam 
+suggested integrated model of Media pipe with optimized  
+GRU model for recognition of 13 ISL gestures to attain 
+average accuracy of 95%. The proposed system has been 
+compared with RNN, LSTM, standard GRU, BiGRU, and 
+BiLSTM models.  
+Hybrid ISLT paradigm comprising of combination of word 
+and alphanumeric and sentence level. In this, [22] suggested 
+transfer learning approach using MobileNetV2 to transcribe 
+clips of ISL into English language. The proposed system 
+was analyzed using other pretrained models such as 
+MobileNet, VGG16 and ResNet50 using 25 epochs with 9  
+trainable layers to attain testing accuracy of 93.89%. 
+Although proposed system achieves better accuracy but 
+time to train the system was comparative high i.e., more than 
+12 hours.  
+[47] classified alphanumeric, word gestures of ISL using 
+Fourier descriptor feature extractor and distance metric to 
+attain overall accuracy of 92.91%. The proposed system 
+[48] recognized 26 alphabets, 10 numbers and 10 distinct 
+phrases on self -made skinpixel segmentation, Moment 
+based feature extraction and SVM algorithm to classify 
+dynamic gestures.  The system obtained an accuracy of 
+97.5% recognition rate in classifying 4 signs (3 alphabet and 
+one word). [49] presents a signer independent 
+communication model for real time using YCbCr 
+segmentation, Zernike moments feature vector and SVM as 
+classifier. [50] Deshpande et al. classified 56 signs real time 
+using CNN into text and audio with 98% accuracy with the 
+constraint of plain background. The proposed model had 5 
+convolution layers, ReLU activation function, max pooling, 
+dropout layer, single valued stride  function and softmax 
+layer to classify different signs.  [51] recognized gestures of 
+7 days of week using Kinect sensor and random forest 
+classifier algorithm to give an accuracy of 74.29% with 
+focus on low cost and maximum efficiency. [52] 
+Nareshkumar attained an accuracy of 98.77% in translating 
+alphanumeric gestures of ISL and American Sign language 
+using novel pretrained model for mobile MobileNetV2 
+consisting of pointwise  convolution layers, separable 
+depthwise convolution, ReLU activation function, swish 

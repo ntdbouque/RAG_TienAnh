@@ -1,0 +1,100 @@
+International Journal of Intelligent Systems and Applications in Engineering  IJISAE, 2024, 12( 14s), 309–319 |  318 10.1109/IHCI.2012.6481841.  
+[27] J. Singha and K. Das, “Indian Sign Language 
+Recognition Using Eigen Value Weighted Euclidean 
+Distance Based Classification Technique,” Int. J. Adv. 
+Comput. Sci. Appl., vol. 4, no. 2, 2013, doi: 
+10.14569/IJACSA.2013.040228.  
+[28] R. Sreemathy, M. Turuk, I. Kulkarni, and S. Khurana, 
+“Sign language recognition using artificial 
+intelligence,” Educ. Inf. Technol., Nov. 2022, doi: 
+10.1007/s10639 -022-11391 -z. 
+[29] A. Kumar and R. Kumar, “A novel approach for ISL 
+alphabet recognition using Extreme Learning 
+Machine,” Int. J. Inf. Technol. Singap., vol. 13, no. 1, 
+pp. 349 –357, 2021, doi: 10.1007/s41870 -020-00525 -
+6. 
+[30] U. Nandi, A. Ghorai, M. M. Singh, C. Changdar, S. 
+Bhakta, and R. Kumar Pal, “Indian sign language 
+alphabet recognition system using CNN with diffGrad 
+optimizer and stochastic pooling,” Multimed. Tools 
+Appl., pp. 1 –22, Jan. 2022, doi: 10.1007/s11042 -021-
+11595-4. 
+[31] H. Bhavsar and Dr. J. Trivedi, “Indian Sign Language 
+Alphabets Recognition from Static Images Using 
+Correlation -Coefficient Algorithm with Neuro -Fuzzy 
+Approach,” SSRN Electron. J., 2019, doi: 
+10.2139/ssrn.3421685.  
+[32] T. S. Abraham, S. P. Sachin Raj, A. Yaamini, and B. 
+Divya, “Transfer learning approaches in deep learning 
+for Indian sign language classification,” Journal of 
+Physics: Conference Series, 2022. doi: 10.1088/1742 -
+6596/2318/1/012041.  
+[33] A. K. Sahoo, M. Sharma, and R. Pal, “INDIAN SIGN 
+LANGUAGE RECOGNITION USING NEURAL 
+NETWORKS AND KNN CLASSIFIERS,” ARPN, 
+vol. 9, no. 8, pp. 1255 –1259, Aug. 2014.  
+[34] J. Gangrade, J. Bharti, and A. Mulye, “Recognition of 
+Indian Sign Language Using ORB with Bag of Visual 
+Words by Kinect Sensor,” IETE J. Res., vol. 68, no. 4, 
+pp. 2953 –2967, Jul. 2022, doi: 
+10.1080/03772063.2020.1739569.  
+[35] D. Deora and N. Bajaj, “Indian sign language 
+recognition,” in 2012 1st International Conference on 
+Emerging Technology Trends in Electronics, 
+Communication & Networking, Surat, Gujarat, India: 
+IEEE, Dec. 2012, pp. 1 –5. doi: 
+10.1109/ET2ECN.2012.6470093.  
+[36] V. Adithya, P. R. Vinod, and U. Gopalakrishnan, 
+“Artificial neural network based method for Indian 
+sign language recognition,” in 2013 IEEE 
+CONFERENCE ON INFORMATION AND COMMUNICATION TECHNOLOGIES, Thuckalay, 
+Tamil Nadu, India: IEEE, Apr. 2013, pp. 1080 –1085. 
+doi: 10.1109/CICT.2013.6558259.  
+[37] Geetha M and Manjusha U C, “A Vision Based 
+Recognition of Indian Sign Language Alphabets and 
+Numerals Using B -Spline Approximation,” 
+International Journal on Computer Science and 
+Engineering (IJCSE), vol. 4, no. 3, pp. 406 –415, 2012.  
+[38] G. K. Kharate and A. S. Ghotkar, “Vision based multi -
+feature hand gesture recognition for indian sign 
+language manual signs,” Int. J. Smart Sens. Intell. 
+Syst., vol. 9, no. 1, pp. 124 –147, 2016, doi: 
+10.21307/ijssis -2017 -863. 
+[39] S. Katoch, V. Singh, and U. S. Tiwary, “Indian Sign 
+Language recognition system using SURF with SVM 
+and CNN,” Array, vol. 14, p. 100141, Jul. 2022, doi: 
+10.1016/j.array.2022.100141.  
+[40] T. Raghuveera, R. Deepthi, R. Mangalashri, and R. 
+Akshaya, “A depth -based Indian Sign Language 
+recognition using Microsoft Kinect,” Sādhanā, vol. 45, 
+no. 1, p. 34, Dec. 2020, doi: 10.1007/s12046 -019-
+1250 -6. 
+[41] K. Mehrotra, A. Godbole, and S. Belhe, “Indian Sign 
+Language Recognition Using Kinect Sensor,” in 
+Image Analysis and Recognition, vol. 9164, M. Kamel 
+and A. Campilho, Eds., in Lecture Notes in Computer 
+Science, vol. 9164. , Cham: Springer International 
+Publishing, 2015, pp. 528 –535. doi: 10.1007/978 -3-
+319-20801 -5_59.  
+[42] Geetha M, Manjusha C, Unnikrishnan P, and 
+Harikrishnan R, “A vision based dynamic gesture 
+recognition of Indian Sign Language on Kinect based 
+depth images,” in 2013 International Conference on 
+Emerging Trends in Communication, Control, Signal 
+Processing an d Computing Applications (C2SPCA), 
+Bangalore, India: IEEE, Oct. 2013, pp. 1 –7. doi: 
+10.1109/C2SPCA.2013.6749448.  
+[43] A. Nandy, S. Mondal, J. S. Prasad, P. Chakraborty, and 
+G. C. Nandi, “Recognizing & interpreting Indian Sign 
+Language gesture for Human Robot Interaction,” in 
+2010 International Conference on Computer and 
+Communication Technology (ICCCT), Allahabad, 
+Uttar P radesh, India: IEEE, Sep. 2010, pp. 712 –717. 
+doi: 10.1109/ICCCT.2010.5640434.  
+[44] W. Ahmed, K. Chanda, and S. Mitra, “Vision based 
+Hand Gesture Recognition using Dynamic Time 
+Warping for Indian Sign Language,” in 2016 
+International Conference on Information Science 
+(ICIS), Kochi, India: IEEE, Aug. 2016, pp. 120 –125. 
+doi: 10.1109/INFOSCI .2016.7845312.  
+[45] D. K. Singh, “3D -CNN based Dynamic Gesture 

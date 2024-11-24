@@ -1,0 +1,76 @@
+International Journal of Intelligent Systems and Applications in Engineering  IJISAE, 2024, 12( 14s), 309–319 |  310 provide suggestions to researchers for future works.  
+The rest of the research paper is organized as follows - 
+Section II describes methodology followed by the authors to 
+conduct this literature review. Section III describes the 
+results followed by conclusion in future scope in Section IV.  
+2. Materials and Methods  
+We carried out a PRISMA comprehensive review to analyze 
+technological advancements in the field of translation of 
+Indian sign language into text. The research questions were 
+formulated in the first step to initiate the process of 
+conducting literature revi ew. 
+• RQ1 - What is the focus of study in previous literature 
+review in the field of ISLTS?  
+• RQ2 -What are various types of datasets available for 
+researchers in the field of ISLTS?  
+• RQ3 - What are the number of research paper published 
+per year on ISLT/RS?  
+• RQ4 - What are existing techniques for translating ISL 
+gestures and their performance?  
+2.1 Search Query  
+Different research papers related to ISLTS/ Indian Sign 
+Language Recognition System (ISLRS) were searched on 
+four popular research databases such as Scopus, Google 
+Scholar, Science Direct and Lensorg. The principal 
+objective of this literature survey is to  examine 
+translation/recognition attempts made in the ISL sector. 
+Open Access articles in English language has been selected 
+for this review process from year 2010 to 2023 based on the 
+search  queries  mentioned in Table 1.  
+Table 1. Search Query  
+Name of 
+Dataset  Query  
+Scopus  TITLE -ABS -KEY  ( "INDIAN SIGN 
+LANGUAGE 
+TRANSLATION"   OR  "ISL 
+TRANSLATION"   OR  "ISL 
+RECOGNITION"   OR  "INDIAN 
+SIGN LANGUAGE 
+RECOGNITION"  )  AND   ( LIMIT -
+TO ( EXACTKEYWORD  ,  "Indian 
+Sign Languages”)   OR  LIMIT -
+TO ( EXACTKEYWORD  ,  "Indian 
+Sign Language"  ) ) 
+Science Direct  "INDIAN SIGN LANGUAGE 
+TRANSLATION" OR "ISL 
+TRANSLATION" OR "ISL 
+RECOGNITION" OR "INDIAN LensOrg  
+Google Scholar  Name of 
+Dataset  Query  
+SIGN LANGUAGE 
+RECOGNITION"  
+ 
+The workflow of the literature review p rocess has been 
+shown using  Error! Reference source not found. . A total 
+of 598 research articles were identified for the purpose of 
+literature review using above mentioned queries from  four 
+major research databases. In the next stage, 47 articles were 
+excluded from the study because of redundancy. Upon 
+preliminary literature investigation, every research article’s 
+title and abstract were examined manually and then 414 
+pertinent papers we re selected for further assessment 
+criteria. Subsequently, 202 research articles were selected 
+based on the criteria of availability  of research paper or 
+whether it is open access. Four eligibility criteria were 
+adopted for this literature survey in the next phase.  
+ 
+Fig. 1.  Flowchart of comprehensive review process using 
+PRISMA guidelines  
+• The article should be peer reviewed.  
+• The article should be related to Indian Sign Language.  
+• The theme of the article should be related to 
+recognition/translation of ISL to text.  
+• The details about framework/implementation should 
+have been mentioned in the research article . 
+After stringent eligibility criteria more than 50 articles has 
+been selected for this literature review.  

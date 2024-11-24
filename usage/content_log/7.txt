@@ -1,0 +1,92 @@
+International Journal of Intelligent Systems and Applications in Engineering  IJISAE, 2024, 12( 14s), 309–319 |  316 97.23 Dynamic Sign  
+[60] 2012  80Words and 
+Sentences  PCA feature vector, Fuzzy inference system  96 Accuracy  
+classified ISL gestures with better accuracy than KNN. [58] 
+proposed Fuzzy c -means clustering algorithm for 
+classifying 80 words and 50 sentences of ISL with an 
+average accuracy of 75%.  [59] proposed ISLTS for 45 sign 
+(alphanumeric and word) using skin color segmentation, 
+Hidden Markov Model, K -nearest neighbor recognition 
+algorithm with an accuracy of 99.7% for static signs and 
+97.23% for dynamic signs. [60] proposed video gesture 
+recognition of ISL using Gaussian filter, Canny edge 
+detector, Fourier descriptor and Sugeno fuzzy inference 
+system to attain higher accuracy of 100 and lowest accuracy 
+of 60 among total signs. Although there are various 
+researchers who have been working in the domain of Indian 
+sign language translation/recognition to develop optimal 
+framework but there is tradeoff between accuracy and time. 
+The system is affected by so many parameters discussed in 
+next s ection.  
+4 Conclusion and Future Scope  
+In this paper, we have conducted comprehensive literature 
+review on Indian Sign Language Translation/Recognition 
+System using PRISMA guidelines. After rigorous 
+screening, more than 50 papers were selected for this review 
+from four major research databases - Scopus, Google 
+Scholar, Science Direct and LensOrg. There were four main 
+criteria on which this survey was conducted - previous work 
+done, datasets available, number of research articles 
+published per year and summary of important work done. It 
+has been concluded a lot of work has already been done in 
+sign language processing systems, but ISLTS are still 
+lagging in a lot of aspects.  
+• Lack of well annotated standard open access 
+datasets  
+• Alphanumeric recognition  
+• Two-way communication system  
+• Domain specific translation system  
+• Lack of quality review papers  
+• Sensor based devices gives better accuracy but are 
+not comfortable  
+ As there are many challenges but exploitation of new 
+emerging machine learning algorithms is need of the hour 
+in ISLTS as compared to other sign language processing 
+system. We hope that this research paper will help other 
+future researchers in the field o f ISL.  
+Author contributions  
+Seema  Sabharwal : Conceptualization, Methodology, 
+Software, Field study , Data curation, Writing -Original draft preparation, Software, Validation, Field study, 
+Visualization Priti Singla : Investigation, Writing -
+Reviewing and Editing.  
+Conflicts of interest  
+The authors declare no conflicts of interest.  
+References  
+[1] A. Wadhawan and P. Kumar, “Sign Language 
+Recognition Systems: A Decade Systematic Literature 
+Review,” Arch. Comput. Methods Eng., vol. 28, no. 3, 
+pp. 785 –813, May 2021, doi: 10.1007/s11831 -019-
+09384 -2. 
+[2] S. M. Kamal, Y. Chen, S. Li, X. Shi, and J. Zheng, 
+“Technical Approaches to Chinese Sign Language 
+Processing: A Review,” IEEE Access, vol. 7, pp. 
+96926 –96935, 2019, doi: 
+10.1109/ACCESS.2019.2929174.  
+[3] ISLRTC, “History | Indian Sign Language Research 
+and Training Center (ISLRTC), Government of India,” 
+Indian Sign Language Research and Training Center 
+(ISLRTC). Accessed: Feb. 14, 2022. [Online]. 
+Available: http://islrtc.nic.in/history -0 
+[4] S. Sabharwal and P. Singla, “Indian Sign Language 
+Digit Translation Using CNN with Swish Activation 
+Function,” in Key Digital Trends Shaping the Future 
+of Information and Management Science, vol. 671, in 
+Lecture Notes in Networks and Systems, vol. 671. , 
+Cham: Springer International Publishing, 2023, pp. 
+245–253. doi: 10.1007/978 -3-031-31153 -6_21.  
+[5] I. A. Adeyanju, O. O. Bello, and M. A. Adegboye, 
+“Machine learning methods for sign language 
+recognition: A critical review and analysis,” Intell. 
+Syst. Appl., vol. 12, p. 200056, Nov. 2021, doi: 
+10.1016/j.iswa.2021.200056.  
+[6] Seema and P. Singla, “A Comprehensive Review of 
+CNN -Based Sign Language Translation System,” in 
+Proceedings of Data Analytics and Management, vol. 
+572, A. Khanna, Z. Polkowski, and O. Castillo, Eds., 
+in Lecture Notes in Networks and Systems, vol. 572. , 
+Singapore: Springer Nature Singapore, 2023, pp. 347 –
+362. doi: 10.1007/978 -981-19-7615 -5_31.  
+[7] A. Liberati et al., “The PRISMA statement for 
+reporting systematic reviews and meta -analyses of 
+studies that evaluate healthcare interventions: 
+explanation and elaboration,” BMJ, vol. 339, no. jul21 

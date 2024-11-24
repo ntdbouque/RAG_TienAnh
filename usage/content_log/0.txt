@@ -1,0 +1,83 @@
+ International Journal of  
+INTELLIGENT SYSTEMS AND APPLICATIONS IN 
+ENGINEERING  
+ISSN:2147 -6799 2147 -6799                                        www.ijisae.org  Original Research Paper  
+ 
+International Journal of Intelligent Systems and Applications in Engineering  IJISAE, 2024, 12( 14s), 309–319 |  309 
+Translation of Indian Sign Language to Text-A Comprehensive Review  
+Seema Sabharwal*1, Priti Singla2 
+ 
+Submitted : 07/12/2023        Revised : 18/01/2024       Accepted : 28/01/2024  
+Abstract:  Deaf and mute persons across the world uses gestures, non -manual features to interact with fellow persons. This way of 
+communication is called Gesture language or Sign language. Gesture languages are local in nature because of their dependency on 
+geographi cal area, syntax, pragmatics, and other attributes. The focus of this paper is to present a comprehensive review of conventio nal 
+as well as contemporary Indian sign language translation system. The process of literature review has been carried out in acc ordance with 
+Preferred Reporting Items for Systematic reviews and Meta Analysis (PRISMA) guidelines by searching in Scopus, google scholar , Science 
+direct and Lensorg databases. Different articles were included between the years 2010 to 2023 for the purpose of literature review. The 
+study was based on four themes -dataset, technique, result and previous literature reviews. This is the first detailed review conducted in the 
+field of Indian sign language translation system  which solely analyses literature relate d to ISL  as per author’s knowledge. The findings of 
+this research article may contribute to gain insights and form a blueprint for future areas in the arena of Indian Sign Langu age 
+translation/recognition system.  
+Keywords:  Comprehensive review, ISL Translation, ISL Recognition, Indian Sign Language, PRISMA  
+1. Introduction  
+Nonverbal communication encompassing body language, 
+gestures, facial emotions is a vital aspect of human 
+interaction. However, people with special needs are solely 
+reliant on this form of communication. Deaf and dumb 
+persons across the world uses gestures,  non-manual features 
+to interact with fellow persons. This way of communication 
+is called Gesture language or Sign language [1]. These 
+languages have evolved over the years because of their 
+natural existence. Due to lack of resources for these 
+especially abled persons, they used sign language to 
+communicate with their families. With technological 
+advances, to aid these persons, sc hools, medical facilities 
+came into existence. Gesture languages are local in nature 
+because of their dependency on geographical area, syntax, 
+pragmatics, and other attributes [2]. Indian Sign Language 
+(ISL) came into existence in 2018, after a long battle by deaf 
+and dumb community [3]. There are many popular sign 
+languages used in India apart from ISL such as Bangla Sign 
+Language (BSL), Tamil Sign Language (TSL), Panjabi Sign 
+Language (PSL) and Malayalam Sign Language (MSL) etc. 
+Currently, Sign language translation is most popular doma in 
+with the potential to provide automatic and effective 
+communication tool for hearing disabled persons [4]. It 
+translates the given input sign language gesture into 
+corresponding text. Promptness and exactness are the important parameters for the decision makers to determine 
+the efficacy of the proposed system [5].  
+ Machine learning is an offshoot of artificial intelligence 
+which aims to simulate human intelligence in machines 
+using various algorithms. However, recently advanced form 
+of machine learning is deep learning which relies on 
+artificial neutral network to e mulate human neurons for 
+image processing tasks. M achine Learning (ML)  and D eep 
+learning (DL)  paradigms can process huge amount of data 
+in a reasonable time  limit and build an efficient translation 
+system. Consequently, ML and DL practices are getting 
+immensely popular in the discipline of sign language 
+processing [6].   
+Although a lot of literature reviews has already been 
+conducted in the field of sign language but dearth of an 
+exhaustive literature review in the field of ISL was one of 
+the major motivation factors for this research article using 
+standard Preferred Repor ting Items for Systematic reviews 
+and Meta Analysis (PRISMA) guidelines [7]. The 
+contributions of this research paper are as follows.  
+• In this paper, we have studied the work done in the 
+field of Indian Sign Language Translation for the 
+vicennial period along with their shortcomings.  
+• Various datasets available in the domain of Indian Sign 
+Language Translation System (ISLTS) has been 
+explored with the focus on available open access 
+dataset.  
+• Different levels of translation such as Alphabet level, 
+word level and sentence level has been discussed.  
+• This paper examines current trends in ISLTS and _____________________________________________________________________________________________ _____________________________________________________________________________________________________________________________ ______________________________________ ______________________________________________________________ _ 
+1 Department of Computer Science and Engineering , Baba Mastnath 
+University, Rohtak, INDIA  
+ORCID ID :  0000 0-0002 -3365 -9886   
+2 Department of Computer Science and Engineering , Baba Mastnath 
+University, Rohtak, INDIA  
+ORCID ID :  0000 -0001 -8921 -6630   
+* Corresponding Author Email: sabharwalseema @gmail.com  

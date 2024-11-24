@@ -1,0 +1,48 @@
+International Journal of Intelligent Systems and Applications in Engineering  IJISAE, 2024, 12( 14s), 309–319 |  315 [40] 2020  Alphanumeric  Kinect with SURF, HOG, Local binary pattern 
+SVM  Average Accuracy -71.85  
+ 
+[23] 2022  
+WORD  11Words  Long short -Term Memory (LSTM), Gated 
+Recurrent Unit (GRU)  97Accuracy  
+[41] 2015  37Words  Kinect with SVM  86.16%Validation 
+Accuracy  
+[42] 2013  10Words  PCA with ALI, Microsoft Kinect (25 key 
+points of each gesture)  Best-100A, Average -40, 
+Worst -25 
+[43] 2010  22Words  Euclidean distance, KNN with 36 bins  Lowest -48.42, Highest -
+100Accuracy  
+[44] 2016  24Words  DTW  90Accuracy  
+[45] 2021  20Words  3D-CNN  88.24Average Accuracy  
+[46] 2022  13Words  MOPGRU with ELU activation and softsign 
+activation function  99.92Accuracy, 0.21 
+Loss  
+[22] 2021  
+HYBRID  55Word,  
+15Sentences  MobileNetV2 pretrained model  93 Recognition Rate  
+[47] 2015  10Signs  Fourier Descriptor with Euclidean distance  Lowest -85, Highest -
+97Accuracy  
+[48] 2016  01Word, 3 
+Alphabet  SVM, Kinect sensor  97.5 Recognition 
+Accuracy  
+[49] 2022  26Alphabet,  
+11Word  Co-articulation, Zernike moment, SVM  Alphabets -91A, W -89A 
+[50] 2023  36 Alphanumeric, 
+20Word  Region of Interest, CNN  98Accuracy  
+[51] 2022  7 Word  Kinect V2 sensor, Random Forest  74.28 Accuracy  
+[52] 2023  26Alphabet,  
+3Word  Transfer learning, Modified MobileNet V2  98.77 Accuracy  
+[53] 2015  10Sentences  PCA with OH  Lowest -85 ,  
+Highest -93 Accuracy  
+[54] 2023  15Sign  Inception v3 CNN with LSTM  95.90 Accuracy  
+[55] 2015  10Sign  DWT, Hidden Markov Model (HMM)  Lowest -80, 
+ Highest -100 Accuracy  
+[56] 2019  942Sentences,  
+35Word  CNN with LSTM and Leap motion sensor  Sentences -72.3Avg. 
+Accuracy,  
+ Words -89.5 Avg. 
+accuracy  
+[57] 2017  42Words  KNN, SVM with MFCC feature extraction  97 Accuracy  
+[58] 2019  80Word,  
+50Sentences  Fuzzy clustering algorithm  75 Accuracy  
+[59] 2018  33Alphanumeric, 
+12 signs  HMM, KNN  99.7 Static Sign  
